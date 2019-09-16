@@ -32,7 +32,8 @@ summary(D$temp_inst)
 > plot(S1)
 > S2 = ts(D2,start = 10,frequency = 1)
 > plot(S2)
-> S3 = ts(D3)
+> S3 = ts(D3
+
 > plot(S3)
 
 V = 1:120
